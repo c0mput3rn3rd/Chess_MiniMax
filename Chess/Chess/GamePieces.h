@@ -7,5 +7,6 @@ int queen;
 int bishop;
 int knight;
 int rook;
+int pawn;
 
 #endif // !GAMEPIECES
