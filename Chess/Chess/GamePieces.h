@@ -9,4 +9,4 @@ int knight;
 int rook;
 int pawn;
 
-#endif // !GAMEPIECES
+#endif

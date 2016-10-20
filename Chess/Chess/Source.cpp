@@ -11,5 +11,6 @@ pawn, pawn, pawn, pawn, pawn, pawn, pawn, pawn, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 pawn, pawn, pawn, pawn, rook, knight, bishop, queen, king, bishop, knight, rook };
 
 int main() {
-	cout << boardSetup;
+	
+	cout << "\n";
 }
